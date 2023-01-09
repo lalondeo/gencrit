@@ -14,6 +14,6 @@ Or, alternatively, if you wish to use parallelism to speedup the computation, fo
 ./gencrit -d[k-1] [n] [i]/[m] [outputfile]
 ```
 
-Merging all the files obtained in this way will produce the same list as if the previous command had been run. 
+Merging all the files obtained in this way will produce the same list as if the previous command had been run. Computing the list for n = 14 and k = 4 took a week on 50 cores.
 
 Many thanks to Brendan McKay for helpful guidance and for hosting the resulting files.
